@@ -21,7 +21,7 @@ def length_converter(value, from_unit, to_unit):
 
 def weight_converter(value, from_unit, to_unit):
     weight_unit = {
-        "Grams": 1000,
+        "Grams": 1,
         "Kilograms": 0.001,
         "Hectograms": 0.01,
         "Milligrams": 1000,
